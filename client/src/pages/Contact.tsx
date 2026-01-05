@@ -9,7 +9,7 @@ export default function Contact() {
     e.preventDefault()
     const subject = `Mensagem de ${name}`
     const body = `Nome: ${name}\nEmail: ${email}\n\n${message}`
-    const mailtoLink = `mailto:seu.email@exemplo.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+    const mailtoLink = `mailto:rabpaulodev@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
     window.location.href = mailtoLink
   }
 
