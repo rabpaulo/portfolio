@@ -19,13 +19,13 @@ export const projectsData: Project[] = [
     name: "Museu Unifor",
     description: "Aplicativo Android desenvolvido para promover acessibilidade no Espaço Cultural da Universidade de Fortaleza",
     html_url: "https://github.com/rabpaulo/Museu-Unifor",
-    technologies: "Kotlin, Jetpack Compose, Android Studio",
+    technologies: "Kotlin, Jetpack Compose, Android Studio, Firebase",
   },
   {
     id: 3,
     name: "Lift Book",
     description: "Em andamento. Tracker de treinos de musculação",
     html_url: "https://github.com/rabpaulo/LiftBook",
-    technologies: "Kotlin, Jetpack Compose, Android Studio, Room", 
+    technologies: "React Native, Expo", 
   },
 ]
