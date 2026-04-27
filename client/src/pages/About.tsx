@@ -17,15 +17,15 @@ export default function About() {
           <div className="grid grid-cols-2 gap-8">
             <div>
               <h3 className="text-xl font-semibold text-gray-900 dark:text-dark-text mb-4">Linguagens</h3>
-              <p className="text-gray-600 dark:text-dark-text-secondary">Python, Kotlin, Java, JavaScript, Shell Script (Bash)</p>
+              <p className="text-gray-600 dark:text-dark-text-secondary">Python, Kotlin, Java, JavaScript, TypeScript, Shell Script, Bash</p>
             </div>
             <div>
               <h3 className="text-xl font-semibold text-gray-900 dark:text-dark-text mb-4">Frameworks/Ferramentas</h3>
-              <p className="text-gray-600 dark:text-dark-text-secondary">Jetpack Compose, Node.js, Docker, Git</p>
+              <p className="text-gray-600 dark:text-dark-text-secondary">React Native, Expo, Jetpack Compose, Node.js, Docker, Git</p>
             </div>
             <div>
               <h3 className="text-xl font-semibold text-gray-900 dark:text-dark-text mb-4">Banco de dados</h3>
-              <p className="text-gray-600 dark:text-dark-text-secondary">MySQL, Firebase</p>
+              <p className="text-gray-600 dark:text-dark-text-secondary">MySQL, Firebase, MongoDB</p>
             </div>
             <div>
               <h3 className="text-xl font-semibold text-gray-900 dark:text-dark-text mb-4">Outros</h3>
