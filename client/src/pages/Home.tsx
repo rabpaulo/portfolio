@@ -16,7 +16,7 @@ export default function Home() {
           Olá, eu sou Paulo.
         </h1>
         <p className="text-xl text-gray-600 dark:text-dark-text-secondary mb-8 leading-relaxed">
-          Desenvolvedor fullstack Android.
+          Desenvolvedor fullstack Mobile.
         </p>
       </div>
     </div>

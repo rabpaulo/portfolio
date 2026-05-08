@@ -6,7 +6,7 @@ export default function About() {
         <div>
           <h2 className="text-3xl font-bold text-gray-900 dark:text-dark-text mb-6">Sobre Mim</h2>
           <p className="text-lg text-gray-600 dark:text-dark-text-secondary leading-relaxed mb-4">
-            Sou desenvolvedor fullstack Android, usando kotlin e jetpack compose. 
+            Sou desenvolvedor fullstack Mobile, com experiência em kotlin com jetpack compose, reactive native + expo. 
           </p>
           <p className="text-lg text-gray-600 dark:text-dark-text-secondary leading-relaxed">
             Acredito na aprendizagem contínua e sou movido pela combinação de lógica, criatividade e tecnologia, sempre em busca de evolução técnica.
